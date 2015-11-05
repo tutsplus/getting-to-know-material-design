@@ -10,3 +10,5 @@ In the end you'll design a very simple application using Material Design.
 Sketch files that contain a demo application built with Material Design.
 
 **Available on Tuts+ November 2015**
+
+![screenshot of source file](https://raw.githubusercontent.com/tutsplus/getting-to-know-material-design/master/Screenshot.png)
