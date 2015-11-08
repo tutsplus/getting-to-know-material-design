@@ -7,7 +7,7 @@ In the end you'll design a very simple application using Material Design.
 
 #### Source Files Description:
 
-Sketch files that contain a demo application built with Material Design.
+Sketch files that contain a demo application built with Material Design. There’s also a PDF in case you don’t have Sketch to access the source.
 
 **Available on Tuts+ November 2015**
 
